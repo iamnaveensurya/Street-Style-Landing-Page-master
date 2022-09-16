@@ -6,11 +6,13 @@ I have created many websites using __*WordPress*__ but This is the first ever we
 >This project as of now isn't responsive but it will be responsive in coming weeks.
 
 ### Screenshot
+---
 
 >![Project 1 Screenshot](website%20thumbnail.png)
 
 
 ### Deployed Link
+---
 
 [Project 1](https://streetstylelandingpage.netlify.app/ "Live preview")
 
@@ -36,7 +38,7 @@ I'm Naveen Kumar and i am aspiring to be a Full Stack Web Developer.
 
 ### Connect with me on :
 ---
->[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/iam_naveensurya/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/iamnaveensurya/)<a href="https://www.fareworks.in"> 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/iam_naveensurya/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/iamnaveensurya/)<a href="https://naveensuyra.netlify.app/"> 
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=CodersRank&logoColor=white" alt="portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/naveenkumarballanki">
